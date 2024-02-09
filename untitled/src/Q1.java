@@ -1,3 +1,4 @@
+/*
 //https://dzone.com/articles/skps-algorithms-and-data-structures-4-java-problem-1
 
 
@@ -18,12 +19,14 @@ import java.util.HashMap;
 
 class Result {
 
-    /*
+    */
+/*
      * Complete the 'mostActive' function below.
      *
      * The function is expected to return a STRING_ARRAY.
      * The function accepts STRING_ARRAY customers as parameter.
-     */
+     *//*
+
 
     public static List<String> mostActive(List<String> customers) {
         // Write your code here
@@ -88,3 +91,4 @@ public class Solution {
         bufferedWriter.close();
     }
 }
+*/

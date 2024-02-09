@@ -1,3 +1,4 @@
+/*
 
 //https://www.yourcodeway.com/2020/10/hackerrank-problem-solving-basic-solution_5.html
 
@@ -16,14 +17,16 @@ import static java.util.stream.Collectors.toList;
 
 class Result {
 
-    /*
+    */
+/*
      * Complete the 'filledOrders' function below.
      *
      * The function is expected to return an INTEGER.
      * The function accepts following parameters:
      *  1. INTEGER_ARRAY order
      *  2. INTEGER k
-     */
+     *//*
+
 
     public static int filledOrders(List<Integer> order, int k) {
         // Write your code here
@@ -76,3 +79,4 @@ public class Solution {
         bufferedWriter.close();
     }
 }
+*/
